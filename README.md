@@ -30,3 +30,9 @@
 
 ![Remmina 4](images/new_project.png)
 Страница проекта
+
+![Git operations](images/git_operations.png)
+Клонирование репозитория на локальную машину и операции с файлами
+
+![Git operations result](images/git_operations_result.png)
+Результат операций, который отобржается в веб-интерфейсе
